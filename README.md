@@ -46,6 +46,21 @@ Because this is the first time that many of you have implemented the MVP design 
 
 Once you've gotten the first three versions of this application working, it's time to add some features that you and your team came up with. Run these by your instructor to help break them down into more manageable steps.
 
+*Here's the scoping students tend to find most helpful.*
+
+#### Version 1:
+##### Asks for two numbers, adds them together.
+
+#### Version 2:
+##### Also works for subtraction
+
+#### Version 3:
+##### A four-function calculator (includes multiplication and division)
+
+#### Version 4:
+##### Additional features of your choosing (love calculator? name rater? pythagorean theorem? quadratic solver?)
+
+
 ## Other Resources / Feature Ideas
 
 If you feel like you've added everything you and your team originally set out to do, that's completely fine. Here are some probing questions you can ask your team to see what a good next step might be.
